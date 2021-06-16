@@ -1,5 +1,3 @@
-# Project exclude paths
-/venv/
-
-# ignore all logs *.log 
-**/logs
+.DS_Store
+.env
+geckodriver.log
