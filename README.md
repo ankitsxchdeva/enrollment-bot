@@ -10,8 +10,6 @@
 
 ## Demo
 [You can see a demo of this bot in action here!](https://www.youtube.com/watch?v=M8mWPUApJEY)
-
-[Reach out with any questions or concerns](mailto:asachde2@ucsc.edu)
 Use at your own risk, I do not guarantee anything.
-
+[Reach out with any questions or concerns](mailto:asachde2@ucsc.edu)
 https://git.io/JnG2n
