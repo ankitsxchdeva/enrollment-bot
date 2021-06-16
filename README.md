@@ -7,3 +7,11 @@
 - ensure all of the classes you would like to add have been added to your shopping cart
 - `python3 main.py`
 - sit back and relax while your enrollment is conducted for you within 9 seconds of your enrollment time starting!
+
+## Demo
+[You can see a demo of this bot in action here!](https://www.youtube.com/watch?v=M8mWPUApJEY)
+
+[Reach out with any questions or concerns](mailto:asachde2@ucsc.edu)
+Use at your own risk, I do not guarantee anything.
+
+https://git.io/JnG2n
