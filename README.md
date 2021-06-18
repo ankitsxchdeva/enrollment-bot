@@ -9,7 +9,9 @@
 - sit back and relax while your enrollment is conducted for you within 9 seconds of your enrollment time starting!
 
 ## Demo
-[You can see a demo of this bot in action here!](https://www.youtube.com/watch?v=M8mWPUApJEY)
+YouTube demo has been linked below:
+[![](https://i.imgur.com/Ukmw3cC.png)](https://youtu.be/M8mWPUApJEY)
+
 Use at your own risk, I do not guarantee anything.
 [Reach out with any questions or concerns](mailto:asachde2@ucsc.edu)
 https://git.io/JnG2n
